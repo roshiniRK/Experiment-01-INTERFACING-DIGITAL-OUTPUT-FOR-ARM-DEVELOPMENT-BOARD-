@@ -155,8 +155,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 
-## Output  :
- ![image](https://github.com/roshiniRK/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118956165/87c38d83-c733-47b0-90dd-ec5bc1192736)
+## Output  :![image](https://github.com/roshiniRK/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118956165/87c38d83-c733-47b0-90dd-ec5bc1192736)
 
  
  
