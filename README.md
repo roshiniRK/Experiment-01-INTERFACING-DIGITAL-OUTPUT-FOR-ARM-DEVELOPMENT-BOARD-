@@ -85,6 +85,7 @@ The main features of LPC2148 include the following.
 ROSHINI R K
 212222230123
 ```
+```
 #include "main.h"
 void SystemClock_Config(void);
 static void MX_GPIO_Init(void);
@@ -158,7 +159,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 
-## Output  :![image](https://github.com/roshiniRK/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118956165/87c38d83-c733-47b0-90dd-ec5bc1192736)
+## Output  :
+![image](https://github.com/roshiniRK/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118956165/1f5fb419-4f90-4e94-8c53-f44f15aeae91)
+![image](https://github.com/roshiniRK/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118956165/046fcbb9-b63b-427c-b500-3cafd6eaaed6)
+
 
  
  
