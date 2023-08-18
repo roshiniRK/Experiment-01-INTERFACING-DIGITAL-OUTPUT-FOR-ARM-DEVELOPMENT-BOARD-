@@ -82,6 +82,9 @@ The main features of LPC2148 include the following.
 
 ## STM 32 CUBE PROGRAM :
 ```
+ROSHINI R K
+212222230123
+```
 #include "main.h"
 void SystemClock_Config(void);
 static void MX_GPIO_Init(void);
@@ -163,7 +166,5 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
 
-##ROSHINI R K
-##212222230123
 
 
